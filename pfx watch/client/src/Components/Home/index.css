@@ -1,0 +1,35 @@
+.home-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    height: 100vh;
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    text-decoration: none;
+    margin-top: 20%;
+    margin-right: 30%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.responsive-container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    width: 50%;
+    height: 20%;
+    margin-top: 20px;
+}
+.logout-button{
+    background-color: red;
+    color:white;
+    border-radius: 5px;
+}
